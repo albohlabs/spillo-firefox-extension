@@ -1,4 +1,4 @@
-[Spillo](http://bananafishsoftware.com/products/spillo/) extension for Firefox
+Firefox extension for [Spillo](http://bananafishsoftware.com/products/spillo/)
 =========
 
 ## Install
