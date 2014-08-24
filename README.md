@@ -2,7 +2,7 @@ Firefox extension for [Spillo](//bananafishsoftware.com/products/spillo/)
 =========
 
 ## Install
-Download the [`spillo-extension.xpi`](//github.com/albohlabs/spillo-firefox-extension/releases/tag/1.0) file and drag it into Firefox.
+Download the [`spillo-extension.xpi`](//github.com/albohlabs/spillo-firefox-extension/releases/latest) file and drag it into Firefox.
 
 ## Build
 1. Clone the _spillo-firefox-extension_ repository
