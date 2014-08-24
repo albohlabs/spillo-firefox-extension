@@ -1,7 +1,7 @@
 
-self.port.on("request", function(message) {
+self.port.on("request", function() {
     var meta = document.getElementsByTagName("meta");
-    var desc = ''
+    var desc = '';
 
     for (var idx = 0; idx < meta.length; idx++) {
         if (meta[idx].name.toLowerCase() === "description") {
