@@ -1,0 +1,9 @@
+{
+  "name": "spillo-extension",
+  "title": "spillo-extension",
+  "id": "jid1-Kt3nhgAL6HB39A",
+  "description": "a basic add-on",
+  "author": "Daniel Gräber",
+  "license": "GNU General Public License version 3",
+  "version": "1.0"
+}
